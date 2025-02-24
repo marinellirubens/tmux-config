@@ -2,16 +2,32 @@
 # WARNING: hex colors can't contain capital letters
 
 # --> Catppuccin (Mocha)
+# ff0000
+
+# fundo linha
 thm_bg="#1e1e2e"
+# cor da letra
 thm_fg="#cdd6f4"
+# cor da letra mensagem
 thm_cyan="#89dceb"
+# nao sei
 thm_black="#181825"
-thm_gray="#313244"
+# fundo mensagem e abas menos a selecionada
+thm_gray="#3b524d"
+# fundo host name
 thm_magenta="#cba6f7"
+# cor da mensagem quando seleciono as sessions (leader + s)
 thm_pink="#f5c2e7"
+# fundo session quando leader e selecionado
 thm_red="#f38ba8"
+# fundo session normal
 thm_green="#a6e3a1"
+# nao sei
 thm_yellow="#f9e2af"
-thm_blue="#89b4fa"
-thm_orange="#fab387"
+# marcador abas nao selecionadas
+thm_blue="#228822"
+# marcador aba selecionada e divisor (old fab387)
+thm_orange="#89ff84"
+# cor do fundo quando seleciono as sessions (leader + s)
 thm_black4="#585b70"
+# ff0000
