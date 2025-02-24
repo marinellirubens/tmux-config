@@ -7,13 +7,13 @@
 # fundo linha
 thm_bg="#1e1e2e"
 # cor da letra
-thm_fg="#cdd6f4"
+thm_fg="#ffffff"
 # cor da letra mensagem
 thm_cyan="#89dceb"
 # nao sei
 thm_black="#181825"
 # fundo mensagem e abas menos a selecionada
-thm_gray="#3b524d"
+thm_gray="#4b625d"
 # fundo host name
 thm_magenta="#cba6f7"
 # cor da mensagem quando seleciono as sessions (leader + s)
